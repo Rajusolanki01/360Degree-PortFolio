@@ -22,8 +22,8 @@ const Computers = ({ isMobile }) => {
 
       <primitive
         object={computer.scene}
-        scale={isMobile ? 0.1 : 0.14} // Change the scale value to make it smaller (e.g., 0.5)
-        position={isMobile ? [2, -50.2, -40.5] : [0, -35.25, -50.5]}
+        scale={isMobile ? 0.080 : 0.14} // Change the scale value to make it smaller (e.g., 0.5)
+        position={isMobile ? [2, -60.2, -80.5] : [0, -35.25, -60.5]}
         rotation={[-0.01, -0.1, -0.1]}
       />
     </mesh>
@@ -57,7 +57,7 @@ const ComputersCanvas = () => {
     <Canvas
       frameloop="demand"
       shadows
-      camera={{ position: isMobile ? [50, 40, 50] : [190, 140, 270] , fov: 40 }}
+      camera={{ position: isMobile ? [80, 60, 70] : [190, 140, 270] , fov: 40 }}
       gl={{ preserveDrawingBuffer: true }}>
       <Suspense fallback={<CanvasLoader />}>
         <OrbitControls
