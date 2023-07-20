@@ -1,0 +1,11 @@
+Model Information:
+* title:	My Home without furnitures Demo
+* source:	https://sketchfab.com/3d-models/my-home-without-furnitures-demo-55dfd649287f4730b520b2c45d4eab4a
+* author:	ChamberSu1996 (https://sketchfab.com/chambersu1996)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "My Home without furnitures Demo" (https://sketchfab.com/3d-models/my-home-without-furnitures-demo-55dfd649287f4730b520b2c45d4eab4a) by ChamberSu1996 (https://sketchfab.com/chambersu1996) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
